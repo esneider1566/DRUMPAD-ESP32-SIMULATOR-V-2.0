@@ -1,0 +1,5 @@
+{
+  "name": "God Tier Drum Pad v2.0",
+  "description": "A digital twin and analysis dashboard for the Industrial Grade Arduino Drum Pad, featuring a simulated OLED display, real-time audio synthesis, and code review.",
+  "requestFramePermissions": []
+}
